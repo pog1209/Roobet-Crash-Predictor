@@ -592,3 +592,4 @@ namespace roobet_crash_predictor
         public string error { get; set; } = "";
     }
 }
+
